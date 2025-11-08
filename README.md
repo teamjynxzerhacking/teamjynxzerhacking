@@ -1,13 +1,13 @@
-# Hi, jynxzer
+# Hi i am, jynxzer
 
 Welcome to my GitHub profile!
 
 ## About Me
-Python enthusiast | OS simulation projects | TKinter & GUI
+Python enthusiast | OS simulation projects | TKinter & GUI 
 
 ## My Projects
-- **PythonOS**: Simulace operačního systému v Pythonu 3
-- **Live City Beta**: Roblox RP hra
+- **PythonOS**: python os simulation
+
 
 ## Skills
 Python | Tkinter | OpenGL | Git | lua | windows commands |
