@@ -13,4 +13,4 @@ Python enthusiast | OS simulation projects | TKinter & GUI
 Python | Tkinter | OpenGL | Git | lua | windows commands |
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tvojeusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=teamjynxzerhackingt&show_icons=true&theme=radical)
